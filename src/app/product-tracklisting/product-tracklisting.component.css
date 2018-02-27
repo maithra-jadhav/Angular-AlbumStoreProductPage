@@ -3,7 +3,7 @@ ul{
     list-style-type: none;
 }
 li{
-    list-style-type:block ;
+    display:block ;
     line-height: 30px;
 }
 button{
